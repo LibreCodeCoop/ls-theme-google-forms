@@ -11,10 +11,10 @@
         <title>Bootstrap Vanilla Forms</title>
         <type>theme</type>
         <creationDate>2021-03-01 14:12</creationDate>
-        <author>Lyseon Techh</author>
-        <authorEmail>contato@lt.coop.br</authorEmail>
-        <authorUrl>https://lt.coop.br/</authorUrl>
-        <copyright>Copyright (C) 2021 Lyseonn Tech. All rights reserved.</copyright>
+        <author>LibreCode</author>
+        <authorEmail>contato@librecode.coop</authorEmail>
+        <authorUrl>https://librecode.coop/</authorUrl>
+        <copyright>Copyright (C) 2021 LibreCode. All rights reserved.</copyright>
         <license>GNU General Public License version 2 or later</license>
         <version>3.0</version>
         <apiVersion>3</apiVersion>
